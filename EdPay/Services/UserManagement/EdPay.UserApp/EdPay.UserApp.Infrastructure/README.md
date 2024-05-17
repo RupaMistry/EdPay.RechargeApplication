@@ -1,4 +1,4 @@
-﻿***Instructions for setting up "**[EdPay.UserAppDB]**" usign EF Core Code First Migration approach.**
+### <ins> ﻿***Instructions for setting up "**[EdPay.UserAppDB]**" usign EF Core Code First Migration approach.**
 
 1) Set "**EdPay.UserApp.Api**" as startup project and then update the below in **appsettings.json** file:-
 
@@ -14,4 +14,4 @@
        a. Add-Migration initialDatabaseCreation
 	   b. update-database
 
-    Please open your SSMS IDE and validate if "**[EdPay.UserAppDB]**" is created succesfully or not.   
+3) Please open your SSMS IDE and validate if "**[EdPay.UserAppDB]**" is created succesfully or not.   

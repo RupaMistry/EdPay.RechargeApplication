@@ -1,4 +1,4 @@
-﻿***Instructions for setting up "**[EdPay.BankingAppDB]**" usign EF Core Code First Migration approach.**
+### <ins> ﻿***Instructions for setting up "**[EdPay.BankingAppDB]**" usign EF Core Code First Migration approach.**
 
 1) Set "**EdPay.PaymentsApp.Api**" as startup project and then update the below in **appsettings.json** file:-
 
