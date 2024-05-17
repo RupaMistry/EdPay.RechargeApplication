@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>disable</Nullable>
+	  <PackageId>EdPay.UserApp.Contracts</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Rupa Mistry</Authors>
+	  <Company>EdPay</Company>
+	  <Product>Payments</Product>
+	  <Description>
+		  EdPay.UserApp.Contracts Nuget library offers common Exhange message contracts.
+	  </Description>
+  </PropertyGroup>
+
+</Project>
